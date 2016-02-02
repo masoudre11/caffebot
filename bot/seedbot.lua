@@ -212,6 +212,7 @@ function create_config( )
     "inrealm",
     "boobs",
     "echo",
+    "danbooru",
     "ingroup",
     "inpm",
     "banhammer",
