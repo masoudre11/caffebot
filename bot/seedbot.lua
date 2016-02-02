@@ -211,6 +211,7 @@ function create_config( )
     "onservice",
     "inrealm",
     "boobs",
+    "google",
     "echo",
     "danbooru",
     "ingroup",
