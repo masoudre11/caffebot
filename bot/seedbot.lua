@@ -210,6 +210,8 @@ function create_config( )
     enabled_plugins = {
     "onservice",
     "inrealm",
+    "boobs",
+    "echo",
     "ingroup",
     "inpm",
     "banhammer",
@@ -223,6 +225,8 @@ function create_config( )
     "download_media",
     "invite",
     "all",
+    "webshot",
+    "youtube",
     "leave_ban",
     "admin"
     },
