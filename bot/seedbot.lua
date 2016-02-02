@@ -213,6 +213,7 @@ function create_config( )
     "boobs",
     "google",
     "echo",
+    "translate",
     "danbooru",
     "ingroup",
     "inpm",
