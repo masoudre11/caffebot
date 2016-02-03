@@ -237,6 +237,9 @@ function create_config( )
     "tex",
     "time",
     "weather",
+    "leave_ban",
+    "auto_leave",
+    "spammer",
     "wiki",
     "torrent_search",
     "location",
@@ -250,9 +253,6 @@ function create_config( )
     "gps",
     "leave_ban",
     "admin"
-    "leave_ban",
-    "auto_leave",
-    "spammer",
      },
     sudo_users = {153730093,tonumber(our_id)},--Sudo users
     disabled_channels = {},
