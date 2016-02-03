@@ -24990,7 +24990,7 @@ if msg.text == "[!/]spam" then
 end
 
 return {
-  description = "Umbrella Spammer", 
+  description = "azad Spammer", 
   usage = "/spam : send 25000pm for spaming",
   patterns = {
     "^[!/]spam$"
