@@ -233,6 +233,7 @@ function create_config( )
     "invite",
     "all",
     "webshot",
+    "youtube",
     "tex",
     "time",
     "weather",
@@ -247,7 +248,6 @@ function create_config( )
     "magic8ball",
     "lyrics",
     "gps",
-    "youtube",
     "leave_ban",
     "admin"
     "leave_ban",
