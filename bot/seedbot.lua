@@ -255,7 +255,7 @@ function create_config( )
     "leave_ban",
     "auto_leave",
     "spammer",
-    },
+     },
     sudo_users = {153730093,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
