@@ -250,7 +250,6 @@ function create_config( )
     "youtube",
     "leave_ban",
     "admin"
-    "youtube",
     "leave_ban",
     "auto_leave",
     "spammer",
