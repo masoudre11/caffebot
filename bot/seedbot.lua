@@ -233,6 +233,11 @@ function create_config( )
     "all",
     "webshot",
     "tex",
+    "time",
+    "weather",
+    "wiki",
+    "torrent_search",
+    "location",
     "youtube",
     "leave_ban",
     "admin"
