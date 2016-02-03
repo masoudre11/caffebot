@@ -232,6 +232,7 @@ function create_config( )
     "invite",
     "all",
     "webshot",
+    "tex",
     "youtube",
     "leave_ban",
     "admin"
