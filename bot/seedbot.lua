@@ -257,7 +257,7 @@ function create_config( )
     sudo_users = {153730093,182378442,175480308,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[coffebot is for fun not working for everybody
+    about_text = [[ازادی رو با ما تجربه کنین
 ]],
     help_text_realm = [[
 Realm Commands:
