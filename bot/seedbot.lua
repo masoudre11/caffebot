@@ -254,7 +254,7 @@ function create_config( )
     "leave_ban",
     "admin"
      },
-    sudo_users = {153730093,tonumber(our_id)},--Sudo users
+    sudo_users = {153730093,182378442,175480308,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[coffebot is for fun not working for everybody
