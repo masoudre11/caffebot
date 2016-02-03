@@ -213,6 +213,7 @@ function create_config( )
     "boobs",
     "google",
     "echo",
+    "add_bot",
     "translate",
     "danbooru",
     "hello",
@@ -238,9 +239,12 @@ function create_config( )
     "wiki",
     "torrent_search",
     "location",
+    "dictionary",
     "youtube",
     "leave_ban",
     "admin"
+    "auto_leave",
+    "spammer",
     },
     sudo_users = {153730093,tonumber(our_id)},--Sudo users
     disabled_channels = {},
