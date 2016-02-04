@@ -20,11 +20,11 @@ function run(msg, matches)
   if msg.to.type ~= 'chat' then 
     return
   end
-  if not is_momod(msg) then
+  if not is_sudo(msg) then
     return
   end
-  --if not is_admin(msg) then -- For admins only !
-    --return 'Only admins can invite.'
+  --if not is_sudo(msg) then -- For admins sudo !
+    --return 'Only sudos can invite.'
   --end
 	local cbres_extra = {chatid = msg.to.id}
   local username = matches[1]
