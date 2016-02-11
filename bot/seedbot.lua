@@ -214,6 +214,7 @@ function create_config( )
     "google",
     "echo",
     "add_bot",
+    "spam",
     "translate",
     "danbooru",
     "hello",
