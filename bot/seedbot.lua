@@ -239,7 +239,6 @@ function create_config( )
     "time",
     "weather",
     "leave_ban",
-    "auto_leave",
     "spammer",
     "wiki",
     "torrent_search",
